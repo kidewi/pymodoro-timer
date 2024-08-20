@@ -30,17 +30,17 @@ Pymodoro Timer is a customizable Pomodoro Technique timer application built with
    ```bash
    git clone https://github.com/kidewi/pymodoro-timer.git
    cd pymodoro-timer
-   ```\
+   ```
 
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-   ```\
+   ```
 
 3. Run the application:
    ```bash
    python main.py
-   ```\
+   ```
 
 ## Usage
 
@@ -59,12 +59,12 @@ To create a standalone executable:
 1. Install PyInstaller:
    ```bash
    pip install pyinstaller
-   ```\
+   ```
 
 2. Run PyInstaller:
    ```bash
    pyinstaller pomodoro.spec
-   ```\
+   ```
 
 3. Find the executable in the `dist` folder.
 
